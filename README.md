@@ -36,3 +36,9 @@
   </a>
 </p>
 
+<p>
+  <a href="https://wa.me/573155751468?text=Hola%20Julian%2C%20te%20contacto%20porque%20estamos%20interesados%20en%20tu%20perfil" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
