@@ -3,7 +3,8 @@
   <small style="font-size: 14px;">Apasionado por la optimización de procesos a través del análisis de datos.</small>
 </h1>
 
-<img width="1584" height="396" alt="julian banner" src="https://github.com/user-attachments/assets/e0ff8fd7-4f74-438b-bb8b-e2b3f435891b" />
+<img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/ce03d2de-14ba-4bb1-8b49-3c0636b83edc" />
+
 
 <h3> PERFIL PROFESIONAL </h3>
 
